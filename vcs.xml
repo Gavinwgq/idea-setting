@@ -22,6 +22,10 @@
           <option name="url" value="git@dev.yutong.com:its3/its-app-brt-fe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.yutong.com:8090/its3/its-app-trb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace" />
