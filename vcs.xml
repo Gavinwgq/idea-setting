@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/quanke/design-pattern-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@dev.yutong.com:its3/its-app-brt-data.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\wgq" />
