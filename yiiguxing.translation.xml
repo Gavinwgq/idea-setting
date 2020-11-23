@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发车" />
+      <item value="演示" />
       <item value="departing" />
       <item value="depart" />
       <item value="complete" />
@@ -12,7 +14,6 @@
       <item value="智汇" />
       <item value="智能" />
       <item value="调度" />
-      <item value="发车" />
       <item value="后面" />
       <item value="前后" />
       <item value="后" />
@@ -20,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
