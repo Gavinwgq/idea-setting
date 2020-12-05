@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="直行" />
+      <item value="拐弯" />
       <item value="展开" />
       <item value="路灯" />
       <item value="drawroad" />
