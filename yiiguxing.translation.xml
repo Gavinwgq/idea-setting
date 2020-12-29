@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Motion" />
+      <item value="运动状态" />
+      <item value="运动" />
       <item value="Untie" />
       <item value="解绑" />
       <item value="Override" />
@@ -41,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
