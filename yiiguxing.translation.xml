@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recursion" />
       <item value="Motion" />
       <item value="运动状态" />
       <item value="运动" />
@@ -48,5 +49,8 @@
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1610334577261" />
   </component>
 </application>
