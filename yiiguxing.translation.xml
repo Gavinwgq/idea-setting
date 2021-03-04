@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="798" />
+    <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="region" />
+      <item value="regi" />
+      <item value="re" />
+      <item value="execute Charge Schedule" />
       <item value="locally" />
       <item value="idle" />
       <item value="Recursion" />
@@ -53,6 +60,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610334577261" />
+    <option name="lastTrimTime" value="1614836531878" />
   </component>
 </application>
