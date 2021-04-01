@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="统计" />
+      <item value="tsji" />
       <item value="未执行" />
       <item value="wzvix;" />
       <item value="wzvix" />
@@ -52,8 +54,6 @@
       <item value="智慧" />
       <item value="智汇" />
       <item value="智能" />
-      <item value="调度" />
-      <item value="后面" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616580679109" />
+    <option name="lastTrimTime" value="1617257667286" />
   </component>
 </application>
