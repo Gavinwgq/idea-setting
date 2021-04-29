@@ -1,15 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="执行中" />
       <item value="进行时" />
       <item value="进行ui" />
       <item value="进行" />
       <item value="jn" />
       <item value="金融性" />
-      <item value="执行中" />
       <item value="统计" />
       <item value="tsji" />
       <item value="未执行" />
