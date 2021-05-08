@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.66.220.128:50090" />
+          <token>df9ddfcedfcfdf92df9adfcbdf9edfcbdf9edf98df92dfccdfcbdf92df9bdf9fdfc8df92df9adfccdfcbdf93dfcedf9fdfc9df9fdf98df92df9edf93dfccdfc9df9bdf9edfccdf93df99dfc8df99df93</token>
+          <option name="name" value="128sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
