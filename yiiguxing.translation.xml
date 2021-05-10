@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="flip" />
       <item value="执行中" />
       <item value="进行时" />
       <item value="进行ui" />
@@ -53,7 +54,6 @@
       <item value="departing" />
       <item value="depart" />
       <item value="complete" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617782095030" />
+    <option name="lastTrimTime" value="1620608296604" />
   </component>
 </application>
