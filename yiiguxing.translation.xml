@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="远程" />
+      <item value="yi" />
+      <item value="remote" />
+      <item value="re" />
       <item value="valid" />
       <item value="va" />
       <item value="无效" />
@@ -28,7 +32,6 @@
       <item value="j" />
       <item value="region" />
       <item value="regi" />
-      <item value="re" />
       <item value="execute Charge Schedule" />
       <item value="locally" />
       <item value="idle" />
@@ -51,9 +54,6 @@
       <item value="拐弯" />
       <item value="展开" />
       <item value="路灯" />
-      <item value="drawroad" />
-      <item value="draw" />
-      <item value="destiny" />
     </histories>
     <option name="languageScores">
       <map>
