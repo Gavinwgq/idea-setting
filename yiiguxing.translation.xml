@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="人工请求" />
       <item value="远程" />
       <item value="yi" />
       <item value="remote" />
@@ -53,7 +54,6 @@
       <item value="直行" />
       <item value="拐弯" />
       <item value="展开" />
-      <item value="路灯" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624591547349" />
+    <option name="lastTrimTime" value="1625453129431" />
   </component>
 </application>
