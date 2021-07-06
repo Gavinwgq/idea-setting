@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="运营" />
+      <item value="yp" />
       <item value="issuance" />
       <item value="Issuance" />
       <item value="人工请求" />
@@ -52,8 +54,6 @@
       <item value="人工" />
       <item value="主动" />
       <item value="treated" />
-      <item value="untreated" />
-      <item value="直行" />
     </histories>
     <option name="languageScores">
       <map>
