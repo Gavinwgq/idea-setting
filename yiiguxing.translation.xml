@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Supplier" />
       <item value="运营" />
       <item value="yp" />
       <item value="issuance" />
@@ -53,7 +54,6 @@
       <item value="50" />
       <item value="人工" />
       <item value="主动" />
-      <item value="treated" />
     </histories>
     <option name="languageScores">
       <map>
