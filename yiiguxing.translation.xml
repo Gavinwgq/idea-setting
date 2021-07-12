@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="ack" />
+      <item value="ac" />
+      <item value="Decorator" />
       <item value="Supplier" />
       <item value="运营" />
       <item value="yp" />
@@ -51,9 +54,6 @@
       <item value="客车" />
       <item value="公交车" />
       <item value="五十" />
-      <item value="50" />
-      <item value="人工" />
-      <item value="主动" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625453129431" />
+    <option name="lastTrimTime" value="1626058767030" />
   </component>
 </application>
