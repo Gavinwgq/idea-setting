@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Threshold" />
       <item value="恢复" />
       <item value="ack" />
       <item value="ac" />
@@ -53,7 +54,6 @@
       <item value="解绑" />
       <item value="Override" />
       <item value="客车" />
-      <item value="公交车" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626058767030" />
+    <option name="lastTrimTime" value="1628470296390" />
   </component>
 </application>
