@@ -66,6 +66,10 @@
           <option name="url" value="ssh://git@gitlab.yutong.com:10022/its/brt/its-brt-tx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.yutong.com:10022/its/wxh/its-websolution-reception.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\workspace" />
