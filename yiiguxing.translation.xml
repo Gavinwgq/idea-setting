@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="consumes" />
+      <item value="ReceiveTaskController" />
       <item value="序列化" />
       <item value="xulc" />
       <item value="Threshold" />
@@ -52,8 +54,6 @@
       <item value="Motion" />
       <item value="运动状态" />
       <item value="运动" />
-      <item value="Untie" />
-      <item value="解绑" />
     </histories>
     <option name="languageScores">
       <map>
