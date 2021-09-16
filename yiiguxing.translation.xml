@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="接待&#10;" />
       <item value="consumes" />
       <item value="ReceiveTaskController" />
       <item value="序列化" />
@@ -53,7 +54,6 @@
       <item value="Recursion" />
       <item value="Motion" />
       <item value="运动状态" />
-      <item value="运动" />
     </histories>
     <option name="languageScores">
       <map>
