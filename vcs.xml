@@ -70,9 +70,17 @@
           <option name="url" value="ssh://git@gitlab.yutong.com:10022/its/wxh/its-websolution-reception.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.yutong.com/its/wxh/its-websolution-ads.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.yutong.com" />
+          <option name="userName" value="wanggqg" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\workspace" />
+    <option name="cloneParentDir" value="F:\workspace\ads" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
