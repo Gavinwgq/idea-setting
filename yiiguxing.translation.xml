@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="452" />
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="777" />
     <option name="newTranslationDialogY" value="344" />
     <histories>
+      <item value="dispatch" />
       <item value="使用中" />
       <item value="使用v" />
       <item value="uiys" />
@@ -54,11 +55,10 @@
       <item value="金融性" />
       <item value="统计" />
       <item value="tsji" />
-      <item value="未执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
+        <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="31" />
       </map>
     </option>
