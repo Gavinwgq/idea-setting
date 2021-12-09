@@ -78,9 +78,13 @@
           <option name="url" value="http://gitlab.yutong.com" />
           <option name="userName" value="wanggqg" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.yutong.com:10022/its/wxh/its-app-robobus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\workspace\ads" />
+    <option name="cloneParentDir" value="F:\workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
