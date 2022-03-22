@@ -82,6 +82,10 @@
           <option name="url" value="ssh://git@gitlab.yutong.com:10022/its/wxh/its-app-robobus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.yutong.com/its/its-app-ads.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\workspace" />
